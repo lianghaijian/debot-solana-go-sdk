@@ -1,4 +1,4 @@
-module github.com/blocto/solana-go-sdk
+module github.com/lianghaijian/debot-solana-go-sdk
 
 go 1.19
 
